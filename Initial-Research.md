@@ -101,14 +101,14 @@ Future research should prioritize adaptive systems that dynamically adjust to ch
 
 ---
 
-[1] Zhang, H., Zhang, Y., & Li, J. (2023). Multi-view crowd counting based on attention mechanism and information fusion. *Concurrency and Computation: Practice and Experience*, *35*(19), e6677.
-[2] Li, Y., Zhang, Y., & Cao, J. (2023). Crowd counting and location method based on semantic segmentation network. *ISPRS International Journal of Geo-Information*, *12*(2), 56.
-[3] S, A., M, A., & P, P. (2024). Optimized YOLO for Real-time Crowd Detection in Smart Cities. *Propulsion and Power Research*, *6*(1).
-[4] Liu, Y., Li, J., Chen, J., Zhang, T., & Zou, Q. (2023). An Autonomous Driving Multi-Sensor Fusion Positioning Method Based on Kalman Filter. *Processes*, *11*(2), 501.
-[5] Sekuła, P., & Zieliński, B. (2022). Crowd simulation system for large-scale evacuation experiments. *Scientific Reports*, *12*(1), 10863.
-[6] Jana, R. K., Das, T. K., Das, M., Das, K., Mahato, B., Das, S., & Sarkar, S. K. (2024). Pressure Mat Sensing Approach for Effective Density Level Classification of Crowd. *IUP Journal of Information Technology*, *20*(2).
-[7] Elharrouss, O., Almaadeed, N., & Al-Maadeed, S. (2023). A 3DCNN and LSTM-Based Approach for Crowd Anomaly Detection in Smart Cities. *Sensors*, *23*(4), 2358.
-[8] Singh, V. K., & Sharma, S. (2020). Crowd Anomaly Detection with Machine Learning. *SSRN Electronic Journal*.
-[9] Li, Y., Zhang, X., & Miao, D. (2020). Crowd counting via weighted VLAD on dense attribute feature maps. *Computer Vision and Image Understanding*, *197*, 103012.
-[10] Elharrouss, O., Almaadeed, N., Al-Maadeed, S., & Akbari, Y. (2021). Image-based crowd counting: A survey. *Journal of Visual Communication and Image Representation*, 78, 103198.
-[11] Zheng, Y., Shao, X., & Zhang, Z. (2024). Predicting short-term crowd flow on the metro: A multi-approach framework. *Scientific Reports*, *14*(1), 12532.
+[1] Zhang, H., Zhang, Y., & Li, J. (2023). Multi-view crowd counting based on attention mechanism and information fusion. *Concurrency and Computation: Practice and Experience*, *35*(19), e6677.<br>
+[2] Li, Y., Zhang, Y., & Cao, J. (2023). Crowd counting and location method based on semantic segmentation network. *ISPRS International Journal of Geo-Information*, *12*(2), 56.<br>
+[3] S, A., M, A., & P, P. (2024). Optimized YOLO for Real-time Crowd Detection in Smart Cities. *Propulsion and Power Research*, *6*(1).<br>
+[4] Liu, Y., Li, J., Chen, J., Zhang, T., & Zou, Q. (2023). An Autonomous Driving Multi-Sensor Fusion Positioning Method Based on Kalman Filter. *Processes*, *11*(2), 501.<br>
+[5] Sekuła, P., & Zieliński, B. (2022). Crowd simulation system for large-scale evacuation experiments. *Scientific Reports*, *12*(1), 10863.<br>
+[6] Jana, R. K., Das, T. K., Das, M., Das, K., Mahato, B., Das, S., & Sarkar, S. K. (2024). Pressure Mat Sensing Approach for Effective Density Level Classification of Crowd. *IUP Journal of Information Technology*, *20*(2).<br>
+[7] Elharrouss, O., Almaadeed, N., & Al-Maadeed, S. (2023). A 3DCNN and LSTM-Based Approach for Crowd Anomaly Detection in Smart Cities. *Sensors*, *23*(4), 2358.<br>
+[8] Singh, V. K., & Sharma, S. (2020). Crowd Anomaly Detection with Machine Learning. *SSRN Electronic Journal*.<br>
+[9] Li, Y., Zhang, X., & Miao, D. (2020). Crowd counting via weighted VLAD on dense attribute feature maps. *Computer Vision and Image Understanding*, *197*, 103012.<br>
+[10] Elharrouss, O., Almaadeed, N., Al-Maadeed, S., & Akbari, Y. (2021). Image-based crowd counting: A survey. *Journal of Visual Communication and Image Representation*, 78, 103198.<br>
+[11] Zheng, Y., Shao, X., & Zhang, Z. (2024). Predicting short-term crowd flow on the metro: A multi-approach framework. *Scientific Reports*, *14*(1), 12532.<br>
